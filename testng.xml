@@ -7,6 +7,8 @@
       <class name="scripts.Tc2"/>
       <class name="scripts.Tc3"/>
       <class name="scripts.Tc4"/>
+      <class name="scripts.Tc5"/>
+      <class name="scripts.Tc6"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
